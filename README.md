@@ -25,7 +25,7 @@ The multimodal chatbot is designed to enhance interaction by integrating various
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/multimodal-chatbot.git
+   git clone https://github.com/quynh343/exercise-5.git
    cd multimodal-chatbot
    ```
 
