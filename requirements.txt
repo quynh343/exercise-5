@@ -1,0 +1,7 @@
+groq - api == 0.26.0
+requests
+python-dotenv
+Pillow
+librosa
+gradio
+pydub
