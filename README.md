@@ -40,5 +40,5 @@ The multimodal chatbot is designed to enhance interaction by integrating various
    ```
 
 4. **Access the Interface:**
-   - `http://localhost:7860` 
+   - `http://127.0.0.1:7860` 
 
